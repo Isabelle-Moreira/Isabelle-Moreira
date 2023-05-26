@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey!! I'm Isabelle 
 
-<!--
-**Isabelle-Moreira/Isabelle-Moreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓I'm a college sophomore taking an Computer Information Systems degree
+- 🔭 I’m currently working on Systems analysis and support
+- 🌱 I’m currently learning Java, HTML, CSS, Python and UI/UX
+- 😄 Pronouns: she/her
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moreira&layout=compact)](https://github.com/anuraghazra/github-readme-stats"
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+   <a href="https://www.instagram.com/isabelle_yasmor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
